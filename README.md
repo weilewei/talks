@@ -1,6 +1,8 @@
 # Slide decks for talks
 |  Venue | Year | Location | Talk | Paper |
 | --- | --- | --- | --- | --- |
+| NERSC training | 2023 | Online | C++23 Intro: What's New and How to Use It | [Slides](https://github.com/weilewei/talks/blob/master/2023_06_cpp23_training/C%2B%2B23_intro.pdf) |
+| SC23 | 2023 | Denver, CO | SC23 ISO C++ Bof Panel | [Slides](https://github.com/weilewei/talks/blob/master/2023_11_sc_cppBof/SC23%20ISO%20C%2B%2B%20BoF%20presentation.pdf) |
 | Master Defense | 2020 | Online | Enabling Parallel Abstraction Layer to DCA++ using HPX And GPUDirect | [Report](http://stellar.cct.lsu.edu/pubs/master_thesis_weile_wei.pdf) |
 | STE\|\| AR symposium | 2020 | Online | [Lock-free Data Structure with HPX](http://youtu.be/1c9XG053VOU) | [Blog](https://weilewei09.wixsite.com/weile/single-post/2020/08/20/Google-Summer-of-Code-Lock-free-data-structure-meets-HPX-runtime-system) |
 | [DoE P3HPC](https://p3hpcforum2020.alcf.anl.gov/) | 2020 | Online | [Building Parallel Abstractions to DCA++ Scientific Software by Taking Advantage of HPX and GPUDirect](https://youtu.be/Xc6Ft7dnp0s) |
